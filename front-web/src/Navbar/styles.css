@@ -4,7 +4,6 @@
     padding-left:45px;
     display: flex;
     align-items:center;
-
 }
 
 .logo-text{
@@ -13,5 +12,5 @@ font-size: 24px;
 line-height: 33px;
 letter-spacing: -0.015em;
 color: #FFFFFF;
-margin-left: 15px;
+margin-left: 15px; 
 }
